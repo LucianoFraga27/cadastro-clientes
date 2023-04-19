@@ -1,0 +1,5 @@
+RNF1: O back-end do sistema deve ser desenvolvido em Java utilizando o framework Spring Boot, seguindo as melhores práticas e padrões de arquitetura.
+
+RNF2: O sistema deve utilizar o banco de dados MySQL para armazenar e gerenciar os dados dos clientes, garantindo segurança e eficiência nas operações.
+
+RNF3: O front-end do sistema deve ser desenvolvido utilizando o framework Flutter, garantindo uma interface moderna, responsiva e amigável ao usuário. Além disso, a interface deve seguir os princípios de design de interface do usuário (UI) e de experiência do usuário (UX), oferecendo uma navegação intuitiva e uma experiência agradável ao usuário.

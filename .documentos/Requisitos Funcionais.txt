@@ -1,0 +1,9 @@
+RF1: O sistema deve permitir que um usuário registre informações de um cliente, incluindo nome, endereço, telefone, e-mail e outras informações relevantes.
+
+RF2: O sistema deve apresentar uma lista com todos os clientes registrados, exibindo as informações mais importantes (por exemplo, nome e email) para permitir uma rápida visualização.
+
+RF3: O sistema deve permitir que o usuário busque informações específicas de um cliente, fornecendo um meio de busca, como um campo de pesquisa ou filtro.
+
+RF4: O sistema deve permitir que o usuário edite informações de um cliente, como nome, endereço, telefone e e-mail, entre outras informações.
+
+RF5: O sistema deve permitir que o usuário exclua um cliente, e o sistema deve exigir uma confirmação antes de excluir permanentemente os dados do cliente.
